@@ -50,7 +50,7 @@ A história do setor automotivo no Vale pode ser dividida em 5 fases claras:
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| Marcos | Uma visualização e tratamento dos dados de exportação.         | Alta       | 5 pontos   |
+| Marcos | Melhorias no Dashboard para melhor interpretação        | Alta       | 5 pontos   |
 
 ---
 
