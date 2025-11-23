@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Cadeira Produtiva Vale do Paraíba
 
 ## 🎯 Objetivo do MVP
 Este repositório documenta o **Sprint 1 de 2025**, cujo objetivo foi **coletar, tratar e analisar dados estratégicos sobre o mercado de importação de smartphones no Brasil**, com base em informações oficiais e visualizações no Power BI.  
