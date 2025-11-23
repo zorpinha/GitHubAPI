@@ -107,7 +107,9 @@ A história do setor automotivo no Vale pode ser dividida em 5 fases claras:
 
 ## 📂 Anexos / Evidências
 
+
 # Analise Extenso dos dados
+
 
 ## Tela de resumo executivo, exportação e importação do ano 2021 ao ano 2025
 
