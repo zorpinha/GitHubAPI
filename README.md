@@ -54,53 +54,14 @@ Este projeto tem como objetivo analisar as importações e exportações no Bras
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
-
-# Product Backlog
-| Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1 | Normal  | Relatório do backlog	 | 2 | 1 |
-| 2 | Normal  | Verificar qual orientador e se o Coorientador está correto | 1 | 1 |
-| 3 | Normal  | tradução dos arquivos de exportação	 | 3 | 1 |
-| 4 | Normal  | Mindset digital a ser definido no final do projeto, mas atualmente entender como podemos definir  | 1 | 1 |
-| 5 | Normal  | Download Dos Arquivos de Exportação	 | 1 | 1 |
-| 6 | Normal  | Junção dos arquivos de Exportação	 | 1 | 1 |
-| 7 | Normal  | Construção do PoweBI   | 4 | 1 |
-| 8 | Normal  | Analisar os dados e todas as planilhas de exportação | 8 | 1 |
-| 9 | Normal  | Atualizarmos sobre o projeto e objetivo do Projeto |2 | 1 |
-| 10 | Normal  | Um jeito de ordenar por ano e Mês	 | 1 | 2 |
-| 11 | Normal  | Arrumar a ordem das datas  | 0.3 | 2 |
-| 12 | Normal  | Reduzir a visualização dos graficos, deixar aproximadamente top 3 | 1/2 | 2 |
-| 13 | Normal  | Otimizar o Power bi e conferir coerência dos dados	 | 1 | 2 |
-| 14 | Normal  | Criar um novo desing utilizando os mesmos gráficos | 6 | 2 |
-| 15 | Normal  | Alterações resumo executivo  | 1  | 2 |
-| 16 | Normal  | Ver se é interessante a inserção de algum gráfico a mais | 1  | 2 |
-| 17 | Normal  | Analisar anomalias nos graficos | 1 | 2 |
-| 18 | Normal  | Enviar backlog e perguntas para o Marcus | 1/2 | 2 |
-| 19 | Normal  | Identificar os pontos de correção do Power BI	 | 1 | 2 |
-| 20 | Normal  | Alterações tela de produtos	 | 1 | 2 |
-| 21 | Normal  | Sdicionar filtro de região por cidade	 | 1 | 2 |
-| 21 | Normal  | Analisar Tendencias no nosso dashboard	 | 11 | 2 |
-| 22 | Normal  | Verificar quais Produtos temos no nicho automotivo | 1 | 2 |
-| 23 | Normal  | Dashboard de importação | 3 | 2 |
-| 24 | Normal  | Junção de uma tabela apenas com importação e exportação juntos	 | 3 | 2 |
-| 25 | Normal  | Adição de DDD para ajudar no filtro de cidades	 | 2 | 2 |
-| 26 | Normal  | TIpo de operação, para poder separar no csv se é importação ou formatação	 | 1 | 2 |
-| 27 | Normal  | Resumo Executivo 2021 a 2025 | 5 | 2 |
-| 28 | Normal  | Produtos 2021 a 2025	 | 2 | 2 |
-| 29 | Normal  | Leitura do mapa geográfico | 2 | 2 |
-| 30 | Normal  | Evolução temporal	 | 2 | 2 |
-| 31 | Normal  | criação de um novo gráfico para interpretar melhor | 2 | 2 |
-| 32 | Normal  | Verificar melhorias estaticas no PowerBi | 2 | 3 |
-| 33 | Normal  | qual a tendencia do mercado?	 | 3 | 3 |
-| 34 | Normal  | traçar uma linha de media no gráfico de evolução temporal	 | 2 | 3 |
-| 35 | Normal  | Enviar backlog de Produto no trello para o marcos	 | 1/2 | 3 |
-
   
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+
+| Kick Off | 15/09/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/GitHubAPI/blob/ca73908dc59b96f73b622922a018d7a4ffd4d5e0/Docs/Requisitos.de.Cliente.PI.II.e.JE.-.GPI.2025.2.pdf) |
+| Sprint 01 | 03/10/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/Jogos-empresariais/blob/5e1f55867ed2838a0584764dadd21dfb8ced138b/sprints/Sprint%201.md) |
+| Sprint 02 | 10/11/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/Jogos-empresariais/blob/7468839f753755f450e1ada331d13dac501257e4/sprints/Sprint%202.md) |
+| Sprint 03 | 24/11/2025 | ✅ Em Andamento | - |
+| Feira de Soluções| 04/12/2025 | ✅ Em Andamento | - |
