@@ -56,46 +56,44 @@ Este projeto tem como objetivo analisar as importações e exportações no Bras
 
 
 # Product Backlog
+| Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-1 | Relatório do backlog	 | Normal  | 
-2 | Verificar qual orientador e se o Coorientador está correto | Normal  | 
-3 | tradução dos arquivos de exportação	 | Normal  | 
-4 | Mindset digital a ser definido no final do projeto, mas atualmente entender como podemos definir | Normal  | 
-5 | Download Dos Arquivos de Exportação	 | Normal  | 
-6 | Junção dos arquivos de Exportação	 | Normal  | 
-7 | Construção do PoweBI | Normal  | 
-8 | Analisar os dados e todas as planilhas de exportação | Normal  | 
-9 | Atualizarmos sobre o projeto e objetivo do Projeto | Normal  | 
-10 | Um jeito de ordenar por ano e Mês	 | Normal  | 
-11 | Arrumar a ordem das datas | Normal  | 
-12 | Reduzir a visualização dos graficos, deixar aproximadamente top 3 | Normal  | 
-13 | Otimizar o Power bi e conferir coerência dos dados	 | Normal  | 
-14 | Criar um novo desing utilizando os mesmos gráficos | Normal  | 
-15 | Alterações resumo executivo	 | Normal  | 
-16 | Ver se é interessante a inserção de algum gráfico a mais | Normal  | 
-17 | Analisar anomalias nos graficos | Normal  | 
-18 | nviar backlog e perguntas para o Marcus | Normal  | 
-19 | Identificar os pontos de correção do Power BI	 | Normal  | 
-20 | Alterações tela de produtos	 | Normal  | 
-21 | adicionar filtro de região por cidade	 | Normal  | 
-21 | Analisar Tendencias no nosso dashboard	 | Normal  | 
-22 | Verificar quais Produtos temos no nicho automotivo | Normal  |  
-23 | Dashboard de importação | Normal  | 
-24 | Junção de uma tabela apenas com importação e exportação juntos	 | Normal  | 
-25 | 5Adição de DDD para ajudar no filtro de cidades	 | Normal  | 
-26 | TIpo de operação, para poder separar no csv se é importação ou formatação	 | Normal  | 
-27 | Resumo Executivo 2021 a 2025 | Normal  | 
-28 | Produtos 2021 a 2025	 | Normal  | 
-29 | Leitura do mapa geográfico | Normal  | 
-30 | Evolução temporal	 | Normal  | 
-31 | criação de um novo gráfico para interpretar melhor | Normal  | 
-32 | Verificar melhorias estaticas no PowerBi | Normal  | 
-33 | qual a tendencia do mercado?	 | Normal  | 
-34 | traçar uma linha de media no gráfico de evolução temporal	 | Normal  | 
-35 | Enviar backlog de Produto no trello para o marcos	 | Normal  | 
-36 | Desenvolver o relatório  | Normal  | 
-
+| 1 | Normal  | Relatório do backlog	 | 2 | 1 |
+| 2 | Normal  | Verificar qual orientador e se o Coorientador está correto | 1 | 1 |
+| 3 | Normal  | tradução dos arquivos de exportação	 | 3 | 1 |
+| 4 | Normal  | Mindset digital a ser definido no final do projeto, mas atualmente entender como podemos definir  | 1 | 1 |
+| 5 | Normal  | Download Dos Arquivos de Exportação	 | 1 | 1 |
+| 6 | Normal  | Junção dos arquivos de Exportação	 | 1 | 1 |
+| 7 | Normal  | Construção do PoweBI   | 4 | 1 |
+| 8 | Normal  | Analisar os dados e todas as planilhas de exportação | 8 | 1 |
+| 9 | Normal  | Atualizarmos sobre o projeto e objetivo do Projeto |2 | 1 |
+| 10 | Normal  | Um jeito de ordenar por ano e Mês	 | 1 | 2 |
+| 11 | Normal  | Arrumar a ordem das datas  | 0.3 | 2 |
+| 12 | Normal  | Reduzir a visualização dos graficos, deixar aproximadamente top 3 | 1/2 | 2 |
+| 13 | Normal  | Otimizar o Power bi e conferir coerência dos dados	 | 1 | 2 |
+| 14 | Normal  | Criar um novo desing utilizando os mesmos gráficos | 6 | 2 |
+| 15 | Normal  | Alterações resumo executivo  | 1  | 2 |
+| 16 | Normal  | Ver se é interessante a inserção de algum gráfico a mais | 1  | 2 |
+| 17 | Normal  | Analisar anomalias nos graficos | 1 | 2 |
+| 18 | Normal  | Enviar backlog e perguntas para o Marcus | 1/2 | 2 |
+| 19 | Normal  | Identificar os pontos de correção do Power BI	 | 1 | 2 |
+| 20 | Normal  | Alterações tela de produtos	 | 1 | 2 |
+| 21 | Normal  | Sdicionar filtro de região por cidade	 | 1 | 2 |
+| 21 | Normal  | Analisar Tendencias no nosso dashboard	 | 11 | 2 |
+| 22 | Normal  | Verificar quais Produtos temos no nicho automotivo | 1 | 2 |
+| 23 | Normal  | Dashboard de importação | 3 | 2 |
+| 24 | Normal  | Junção de uma tabela apenas com importação e exportação juntos	 | 3 | 2 |
+| 25 | Normal  | Adição de DDD para ajudar no filtro de cidades	 | 2 | 2 |
+| 26 | Normal  | TIpo de operação, para poder separar no csv se é importação ou formatação	 | 1 | 2 |
+| 27 | Normal  | Resumo Executivo 2021 a 2025 | 5 | 2 |
+| 28 | Normal  | Produtos 2021 a 2025	 | 2 | 2 |
+| 29 | Normal  | Leitura do mapa geográfico | 2 | 2 |
+| 30 | Normal  | Evolução temporal	 | 2 | 2 |
+| 31 | Normal  | criação de um novo gráfico para interpretar melhor | 2 | 2 |
+| 32 | Normal  | Verificar melhorias estaticas no PowerBi | 2 | 3 |
+| 33 | Normal  | qual a tendencia do mercado?	 | 3 | 3 |
+| 34 | Normal  | traçar uma linha de media no gráfico de evolução temporal	 | 2 | 3 |
+| 35 | Normal  | Enviar backlog de Produto no trello para o marcos	 | 1/2 | 3 |
 
   
 # Registro das Sprints
