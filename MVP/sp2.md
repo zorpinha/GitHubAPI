@@ -57,29 +57,29 @@ A história do setor automotivo no Vale pode ser dividida em 5 fases claras:
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 10 | Um jeito de ordenar por ano e Mês	 | Concluído |
-| 11 | Arrumar a ordem das datas  | Concluído |
-| 12 | Reduzir a visualização dos graficos, deixar aproximadamente top 3 | Concluído |
-| 13 | Otimizar o Power bi e conferir coerência dos dados	 | Concluído |
-| 14 | Criar um novo desing utilizando os mesmos gráficos | Concluído |
-| 15 | Alterações resumo executivo  | Concluído |
-| 16 | Ver se é interessante a inserção de algum gráfico a mais | Concluído |
-| 17 | Analisar anomalias nos graficos | Concluído |
-| 18 | Enviar backlog e perguntas para o Marcus | Concluído |
-| 19 | Identificar os pontos de correção do Power BI	 | Concluído |
-| 20 | Alterações tela de produtos	| Concluído |
-| 21 | Adicionar filtro de região por cidade	 | Concluído |
-| 21 | Analisar Tendencias no nosso dashboard	 | Concluído |
-| 22 | Verificar quais Produtos temos no nicho automotivo | Concluído |
-| 23 | Dashboard de importação | Concluído |
-| 24 | Junção de uma tabela apenas com importação e exportação juntos	| Concluído |
-| 25 | Adição de DDD para ajudar no filtro de cidades	 | Concluído |
-| 26 | TIpo de operação, para poder separar no csv se é importação ou formatação	 | Concluído |
-| 27 | Resumo Executivo 2021 a 2025 | Concluído |
-| 28 | Produtos 2021 a 2025	 | Concluído |
-| 29 | Leitura do mapa geográfico | Concluído |
-| 30 | Evolução temporal	 | Concluído |
-| 31 | criação de um novo gráfico para interpretar melhor | Concluído |
+| 2 | Um jeito de ordenar por ano e Mês	 | Concluído |
+| 2 | Arrumar a ordem das datas  | Concluído |
+| 2 | Reduzir a visualização dos graficos, deixar aproximadamente top 3 | Concluído |
+| 2 | Otimizar o Power bi e conferir coerência dos dados	 | Concluído |
+| 2 | Criar um novo desing utilizando os mesmos gráficos | Concluído |
+| 2 | Alterações resumo executivo  | Concluído |
+| 2 | Ver se é interessante a inserção de algum gráfico a mais | Concluído |
+| 2 | Analisar anomalias nos graficos | Concluído |
+| 2 | Enviar backlog e perguntas para o Marcus | Concluído |
+| 2 | Identificar os pontos de correção do Power BI	 | Concluído |
+| 2 | Alterações tela de produtos	| Concluído |
+| 2 | Adicionar filtro de região por cidade	 | Concluído |
+| 2 | Analisar Tendencias no nosso dashboard	 | Concluído |
+| 2 | Verificar quais Produtos temos no nicho automotivo | Concluído |
+| 2 | Dashboard de importação | Concluído |
+| 2 | Junção de uma tabela apenas com importação e exportação juntos	| Concluído |
+| 2 | Adição de DDD para ajudar no filtro de cidades	 | Concluído |
+| 2 | TIpo de operação, para poder separar no csv se é importação ou formatação	 | Concluído |
+| 2 | Resumo Executivo 2021 a 2025 | Concluído |
+| 2 | Produtos 2021 a 2025	 | Concluído |
+| 2 | Leitura do mapa geográfico | Concluído |
+| 2 | Evolução temporal	 | Concluído |
+| 2 | criação de um novo gráfico para interpretar melhor | Concluído |
 
 ---
 
